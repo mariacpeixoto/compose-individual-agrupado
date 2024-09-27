@@ -1,1 +1,1 @@
-# compose-individual-agrupado
+# Composite: Formas Individuais e Agrupadas
